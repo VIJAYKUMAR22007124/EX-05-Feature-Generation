@@ -91,7 +91,7 @@ pd.get_dummies(df,columns=["Ord_1"])
 ![Screenshot (326)](https://user-images.githubusercontent.com/119657657/233823780-9af693e5-7970-4267-945a-6a0499af529f.png)
 
 
-#RESULT
+# RESULT
 
 The given data is read and performed with Feature Generation process and saveed the data to a file. 
 
